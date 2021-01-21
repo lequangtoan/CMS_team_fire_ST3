@@ -1,0 +1,508 @@
+# Translation of Plugins - Meta Box &#8211; WordPress Custom Fields Framework - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Meta Box &#8211; WordPress Custom Fields Framework - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-01 05:20:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Meta Box &#8211; WordPress Custom Fields Framework - Stable (latest release)\n"
+
+#: inc/update/settings.php:131
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: inc/update/settings.php:108
+msgid "License Key"
+msgstr "Mã giấy phép"
+
+#: inc/update/settings.php:72 inc/update/settings.php:90
+msgid "Meta Box License"
+msgstr "Giấy phép Meta Box"
+
+#: inc/update/settings.php:72
+msgid "License"
+msgstr "Giấy phép"
+
+#: meta-box.php:24
+msgid "Meta Box requires PHP version 5.3+. Please contact your host to upgrade."
+msgstr "Meta Box yêu cầu phiên bản PHP 5.3+. Hãy liên hệ hosting để nâng cấp."
+
+#: inc/about/sections/extensions.php:124
+msgid "View all extensions"
+msgstr "Xem tất cả tiện ích"
+
+#: inc/fields/file.php:63
+msgid "Error: Invalid file"
+msgstr "Lỗi: Tệp không hợp lệ"
+
+#. Translators: %s - link to documentation.
+#: inc/about/sections/support.php:18
+msgid "Still need help with Meta Box? We offer excellent support for you. But don't forget to check our <a href=\"%s\">documentation</a> first."
+msgstr "Bạn cần trợ giúp với Meta Box? Chúng tôi cung cấp dịch vụ hỗ trợ hoàn hảo cho bạn. Nhưng đừng quên xem trước <a href=\"%s\">tài liệu kỹ thuật</a> nhé."
+
+#: inc/fields/osm.php:28 inc/fields/map.php:55
+msgid "No results found"
+msgstr "Không thấy kết quả nào"
+
+#. Translators: %s - Plugin name.
+#: inc/about/sections/welcome.php:14
+msgid "Welcome to %s"
+msgstr "Chào mừng bạn đến với %s"
+
+#: inc/about/sections/extensions.php:80
+msgid "Create register, login and edit user profile forms in the frontend. Embed everywhere with shortcodes."
+msgstr "Tạo đăng ký, đăng nhập và chỉnh sửa biểu mẫu hồ sơ người dùng trong giao diện người dùng. Nhúng ở khắp mọi nơi bằng mã ngắn."
+
+#: inc/about/about.php:86
+msgid "Dashboard"
+msgstr "Bảng điều khiển"
+
+#: inc/about/sections/upgrade.php:20
+msgid "Get Meta Box PRO now"
+msgstr "Nhận Meta Box Pro ngay bây giờ"
+
+#: inc/about/sections/upgrade.php:18
+msgid "And much more!"
+msgstr "Và nhiều hơn nữa"
+
+#: inc/about/sections/upgrade.php:17
+msgid "Save custom fields in custom tables."
+msgstr "Lưu các trường tuỳ chỉnh  trong bảng tuỳ chỉnh"
+
+#: inc/about/sections/upgrade.php:16
+msgid "Create frontend submission forms."
+msgstr "Tạo biểu mẫu gởi trước"
+
+#: inc/about/sections/upgrade.php:15
+msgid "Create custom settings pages."
+msgstr "Tạo các trang cài đặt tuỳ chỉnh"
+
+#: inc/about/sections/upgrade.php:14
+msgid "Add custom fields to taxonomies or user profile."
+msgstr "Thêm trường tùy chỉnh vào phân loại hoặc hồ sơ người dùng."
+
+#: inc/about/sections/upgrade.php:13
+msgid "Create custom fields with drag-n-drop interface - no coding knowledge required!"
+msgstr "Tạo các trường tùy chỉnh với giao diện kéo-thả-thả - không cần kiến ​​thức mã hóa!"
+
+#: inc/about/sections/upgrade.php:11
+msgid "Please upgrade to the PRO plan to unlock more awesome features."
+msgstr "Vui lòng nâng cấp lên bản Pro để mở khoá các tính năng tuyệt vời hơn."
+
+#: inc/about/sections/upgrade.php:10
+msgid "Upgrade to Meta Box PRO"
+msgstr "Nâng cấp lên Meta Box Pro"
+
+#: inc/about/sections/extensions.php:24 inc/about/sections/extensions.php:120
+msgid "Free Download"
+msgstr "Miễn phí tải về."
+
+#. Translators: %1$s - link to review form.
+#: inc/about/about.php:156
+msgid "Please rate <strong>Meta Box</strong> <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> on <a href=\"%1$s\" target=\"_blank\">WordPress.org</a> to help us spread the word. Thank you from the Meta Box team!"
+msgstr "Vui lòng đánh giá <strong>Meta Box</strong><a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> trên <a href=\"%1$s\" target=\"_blank\">WordPress.org</a> để giúp chúng tôi truyền bá. Xin cảm ơn từ nhóm Meta Box!"
+
+#: inc/about/sections/welcome.php:17
+msgid "Meta Box is a free Gutenberg and GDPR-compatible WordPress custom fields plugin and framework that makes quick work of customizing a website with—you guessed it—meta boxes and custom fields in WordPress. Follow the instruction below to get started!"
+msgstr "Meta Box là một trình cắm và trường tuỳ biến  miễn phí  của  WordPress tương thích với Gutenberg và GDPR   trong việc tùy chỉnh một trang web với—bạn đoán nó- meta box và  trường tuỳ biến trong  WordPress.Làm theo hướng dẫn dưới đây để bắt đầu."
+
+#: inc/about/sections/tabs.php:13 inc/about/sections/welcome.php:22
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: inc/about/sections/support.php:32
+msgid "Go to support forum"
+msgstr "Truy cập trang diễn đàn hỗ trợ"
+
+#: inc/about/sections/support.php:31
+msgid "For users that have bought premium extensions, the support is provided in the Meta Box Support forum. Any question will be answered with technical details within 24 hours."
+msgstr "Đối với người dùng đã mua các tiện ích mở rộng cao cấp, hỗ trợ được cung cấp trong diễn đàn Hỗ trợ của  Meta Box.Bất kỳ câu hỏi sẽ được trả lời một cách chi tiết  trong vòng 24 giờ."
+
+#: inc/about/sections/support.php:30
+msgid "Premium Support"
+msgstr "Hỗ trợ cao cấp"
+
+#: inc/about/sections/support.php:26
+msgid "Go to WordPress.org"
+msgstr "Truy cập trang WordPress.org"
+
+#: inc/about/sections/support.php:25
+msgid "Go to Github"
+msgstr "Đến trang Github"
+
+#: inc/about/sections/support.php:24
+msgid "If you have any question about how to use the plugin, please open a new topic on WordPress.org support forum or open a new issue on Github (preferable). We will try to answer as soon as we can."
+msgstr "Nếu bạn có bất kỳ câu hỏi nào về cách sử dụng plugin,hãy mở một chủ đề mới trên diễn đàn hỗ trợ WordPress.org hoặc mở một vấn đề mới trên Github(thích hợp hơn).Chúng tôi sẽ cố gắng trả lời ngay khi có thể."
+
+#: inc/about/sections/support.php:23
+msgid "Free Support"
+msgstr "Hỗ trợ miễn phí"
+
+#: inc/about/sections/extensions.php:92
+msgid "Create frontend forms for users to submit custom content. Embed everywhere with shortcode."
+msgstr "Tạo biểu mẫu giao diện  để người dùng gửi nội dung tùy chỉnh. Nhúng ở khắp mọi nơi bằng shortcode."
+
+#: inc/about/sections/extensions.php:68
+msgid "Control the visibility of meta boxes and fields or even HTML elements with ease."
+msgstr "Kiểm soát khả năng hiển thị của các hộp meta và các trường tuỳ biến  hoặc thậm chí là các phần tử HTML một cách dễ dàng."
+
+#: inc/about/sections/extensions.php:56
+msgid "Create a powerful settings page for your theme, plugin or website."
+msgstr "Tạo trang cài đặt mạnh mẽ cho chủ đề, plugin hoặc trang web của bạn."
+
+#: inc/about/sections/extensions.php:44
+msgid "Create repeatable groups of custom fields for better appearance and structure."
+msgstr "Tạo các nhóm tùy biến có thể lặp lại để có giao diện và cấu trúc tốt hơn."
+
+#: inc/about/sections/extensions.php:20
+msgid "Create and manage custom post types easily in WordPress with an easy-to-use interface."
+msgstr "Tạo và quản lý các loại bài đăng tùy chỉnh dễ dàng trong WordPress với giao diện dễ sử dụng."
+
+#: inc/about/sections/extensions.php:32
+msgid "Drag and drop your custom fields into place without a single line of code."
+msgstr "Kéo và thả các trường tùy biến của bạn vào vị trí mà không cần một dòng mã"
+
+#: inc/about/sections/extensions.php:12
+msgid "View Bundles"
+msgstr "Xem gói tiện ích mở rộng"
+
+#: inc/about/sections/extensions.php:11
+msgid "Extend custom fields in WordPress well beyond what others would ever consider ordinary!"
+msgstr "Mở rộng các trường tùy biến  trong WordPress vượt xa những gì  thông thường người khác sẽ xem xét!"
+
+#: inc/fields/switch.php:94
+msgid "Off"
+msgstr "Tắt"
+
+#: inc/fields/switch.php:93
+msgid "On"
+msgstr "Bật"
+
+#: inc/fields/background.php:149
+msgid "Contain"
+msgstr "Chứa"
+
+#: inc/fields/background.php:148
+msgid "Cover"
+msgstr "Phủ"
+
+#: inc/fields/background.php:132
+msgid "Scroll"
+msgstr "Cuộn"
+
+#: inc/fields/background.php:131
+msgid "Fixed"
+msgstr "Cố định"
+
+#: inc/fields/background.php:117
+msgid "Bottom Right"
+msgstr "Góc dưới bên phải"
+
+#: inc/fields/background.php:116
+msgid "Bottom Center"
+msgstr "Ở giữa bên dưới"
+
+#: inc/fields/background.php:115
+msgid "Bottom Left"
+msgstr "Góc dưới bên trái"
+
+#: inc/fields/background.php:114
+msgid "Center Right"
+msgstr "Ở giữa bên phải"
+
+#: inc/fields/background.php:113
+msgid "Center Center"
+msgstr "Chính giữa"
+
+#: inc/fields/background.php:112
+msgid "Center Left"
+msgstr "Ở giữa bên trái"
+
+#: inc/fields/background.php:111
+msgid "Top Right"
+msgstr "Góc trên bên phải"
+
+#: inc/fields/background.php:110
+msgid "Top Center"
+msgstr "Ở giữa bên trên"
+
+#: inc/fields/background.php:109
+msgid "Top Left"
+msgstr "Góc trên bên trái"
+
+#: inc/fields/background.php:95 inc/fields/background.php:133
+#: inc/fields/background.php:147
+msgid "Inherit"
+msgstr "Kế thừa"
+
+#: inc/fields/background.php:94
+msgid "Repeat Vertically"
+msgstr "Lặp theo chiều dọc"
+
+#: inc/fields/background.php:93
+msgid "Repeat Horizontally"
+msgstr "Lặp theo chiều ngang"
+
+#: inc/fields/background.php:92
+msgid "Repeat All"
+msgstr "Lặp cả 2 chiều"
+
+#: inc/fields/background.php:91
+msgid "No Repeat"
+msgstr "Không lặp"
+
+#: inc/fields/background.php:75
+msgid "Background Image"
+msgstr "Ảnh nền"
+
+#: inc/fields/sidebar.php:23
+msgid "Select a sidebar"
+msgstr "Chọn một thanh bên"
+
+#: inc/about/sections/tabs.php:10
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: inc/about/sections/getting-started.php:33
+msgid "More Extensions"
+msgstr "Các phần mở rộng khác"
+
+#: inc/about/sections/getting-started.php:31
+msgid "MB Settings Page"
+msgstr "MB Settings Page"
+
+#: inc/about/sections/getting-started.php:30
+msgid "Meta Box Conditional Logic"
+msgstr "Meta Box Conditional Logic"
+
+#: inc/about/sections/getting-started.php:29
+msgid "Meta Box Group"
+msgstr "Meta Box Group"
+
+#: inc/about/sections/getting-started.php:26
+msgid "Wanna see more features that transform your WordPress website into a powerful CMS? Check out some extensions below:"
+msgstr "Bạn muốn nhiều tính năng hơn nữa để biến website WordPress của bạn thành một CMS mạnh mẽ? Hãy tham khảo các phần mở rộng dưới đây:"
+
+#: inc/about/sections/extensions.php:36 inc/about/sections/extensions.php:48
+#: inc/about/sections/extensions.php:60 inc/about/sections/extensions.php:72
+#: inc/about/sections/extensions.php:84 inc/about/sections/extensions.php:96
+#: inc/about/sections/extensions.php:108
+#: inc/about/sections/getting-started.php:23
+msgid "Learn More"
+msgstr "Xem thêm"
+
+#: inc/about/sections/getting-started.php:22
+msgid "Meta Box doesn't have any admin page for configuration or settings. Instead of that, it provides a very powerful API to speed up the process of creating meta boxes and custom fields. It might take you a little time at first, but then you'll love the way it work because it helps you do and customize almost everything."
+msgstr "Meta Box không có trang cấu hình hay cài đặt trong phần quản trị. Thay vào đó, nó cung cấp một API mạnh mẽ để giúp bạn tăng tốc quá trình tạo các meta box và trường tùy biến. Ban đầu, điều đó có thể mất chút thời gian, nhưng sau đó bạn sẽ thích cách nó làm việc bởi vì nó có thể giúp bạn thực hiện và tùy biến gần như tất cả mọi thứ."
+
+#: inc/about/sections/getting-started.php:21
+msgid "Understand The Basics"
+msgstr "Cơ bản"
+
+#: inc/about/sections/getting-started.php:17
+msgid "Go to Online Generator"
+msgstr "Đến trang sinh mã trực tuyến"
+
+#: inc/about/sections/getting-started.php:15
+msgid "online generator"
+msgstr "sinh mã trực tuyến"
+
+#: inc/about/sections/getting-started.php:12
+msgid "Getting Started With Online Generator"
+msgstr "Bắt đầu với Trình sinh mã trực tuyến"
+
+#: inc/about/about.php:85
+msgid "Welcome to Meta Box"
+msgstr "Chào mừng đến với Meta Box"
+
+#: inc/about/about.php:54
+msgid "About"
+msgstr "Giới thiệu"
+
+#. Author of the plugin
+msgid "MetaBox.io"
+msgstr "MetaBox.io"
+
+#. Description of the plugin
+msgid "Create custom meta boxes and custom fields in WordPress."
+msgstr "Tạo các trường tùy biến trong WordPress."
+
+#: inc/fields/media.php:37
+msgctxt "media"
+msgid "or"
+msgstr "hoặc"
+
+#: inc/fields/select-advanced.php:47
+msgid "Select an item"
+msgstr "Chọn một mục"
+
+#: inc/fields/media.php:38
+msgctxt "media"
+msgid "Drop files here to upload"
+msgstr "Kéo thả tệp tin vào đây để tải lên"
+
+#: inc/fields/media.php:36
+msgctxt "media"
+msgid "Select Files"
+msgstr "Chọn tệp tin"
+
+#: inc/fields/taxonomy.php:94
+msgid "Select a term"
+msgstr "Chọn một mục"
+
+#: inc/fields/media.php:33
+msgctxt "media"
+msgid "No Title"
+msgstr "Không tiêu đề"
+
+#: inc/fields/media.php:29
+msgctxt "media"
+msgid " files"
+msgstr "file"
+
+#: inc/fields/media.php:28
+msgctxt "media"
+msgid " file"
+msgstr "file"
+
+#: inc/fields/media.php:32
+msgctxt "media"
+msgid "View"
+msgstr "Xem"
+
+#: inc/fields/media.php:31
+msgctxt "media"
+msgid "Edit"
+msgstr "Sửa"
+
+#: inc/fields/media.php:30
+msgctxt "media"
+msgid "Remove"
+msgstr "Xóa"
+
+#: inc/fields/media.php:27
+msgctxt "media"
+msgid "+ Add Media"
+msgstr "+ Thêm file"
+
+#: inc/field.php:361
+msgid "+ Add more"
+msgstr "+ Thêm"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://metabox.io"
+msgstr "http://metabox.io"
+
+#. Plugin Name of the plugin
+#: inc/about/about.php:69 inc/about/about.php:70
+msgid "Meta Box"
+msgstr "Meta Box"
+
+#: inc/validation.php:43
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Vui lòng sửa các lỗi dưới đây và thử lại"
+
+#: inc/fields/user.php:84
+msgid "Select an user"
+msgstr "Chọn 1 người dùng"
+
+#: inc/fields/select.php:92
+msgid "None"
+msgstr "Không mục nào"
+
+#: inc/fields/select.php:92
+msgid "All"
+msgstr "Tất cả"
+
+#. Translators: %s is the taxonomy singular label.
+#: inc/fields/post.php:86 inc/fields/taxonomy.php:98
+msgid "Select a %s"
+msgstr "Chọn %s"
+
+#: inc/fields/post.php:80
+msgid "Select a post"
+msgstr "Chọn 1 bài viết"
+
+#: inc/fields/oembed.php:24
+msgid "Embed HTML not available."
+msgstr "Mã HTML nhúng đa phương tiện không khả dụng."
+
+#: inc/fields/key-value.php:136
+msgid "Value"
+msgstr "Giá trị"
+
+#: inc/fields/key-value.php:135
+msgid "Key"
+msgstr "Tên"
+
+#: inc/fields/file.php:90
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Thêm file mới"
+
+#: inc/fields/file.php:77
+msgid "Error: Cannot delete file"
+msgstr "Lỗi: Không xóa được file"
+
+#. Translators: %d is the number of files in plural form.
+#: inc/fields/file.php:26
+msgid "You may only upload maximum %d files"
+msgstr "Bạn chỉ được phép upload tối đa %d file"
+
+#. Translators: %d is the number of files in singular form.
+#: inc/fields/file.php:24
+msgid "You may only upload maximum %d file"
+msgstr "Bạn chỉ được phép upload tối đa %d file"
+
+#: inc/fields/file-input.php:45
+msgid "Remove"
+msgstr "Xóa"
+
+#: inc/fields/select.php:92 inc/fields/file-input.php:43
+msgid "Select"
+msgstr "Chọn"
+
+#: inc/fields/file-input.php:23
+msgid "Select File"
+msgstr "Chọn file"
+
+#: inc/fields/file.php:172
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Sửa"
+
+#: inc/fields/file.php:171
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Xóa"
+
+#: inc/fields/checkbox.php:53
+msgid "No"
+msgstr "Không"
+
+#: inc/fields/checkbox.php:53
+msgid "Yes"
+msgstr "Có"
+
+#: inc/fields/button.php:34
+msgid "Click me"
+msgstr "Nhấn ngay"
+
+#: inc/fields/autocomplete.php:23 inc/fields/autocomplete.php:85
+#: inc/fields/autocomplete.php:97
+msgid "Delete"
+msgstr "Xóa"
+
+#: inc/about/sections/tabs.php:12 inc/about/sections/welcome.php:21
+#: inc/about/sections/getting-started.php:25
+msgid "Extensions"
+msgstr "Phần mở rộng"
+
+#: inc/about/sections/welcome.php:20
+msgid "Documentation"
+msgstr "Tài liệu"

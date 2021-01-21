@@ -1,0 +1,6 @@
+2020-12-28T22:01:36+00:00 CRITICAL Uncaught Error: Call to undefined function wp_is_recovery_mode() in C:\xampp\htdocs\codewebmaytinh\wp-admin\admin-header.php:55
+Stack trace:
+#0 C:\xampp\htdocs\codewebmaytinh\wp-admin\plugins.php(448): require_once()
+#1 {main}
+  thrown
+
